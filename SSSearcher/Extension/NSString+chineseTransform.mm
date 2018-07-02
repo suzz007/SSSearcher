@@ -111,6 +111,11 @@ const   char   *Romechar2Index[KRomeCodeNum]   =
 
 + (void)compare:(int *)i searhRestultName:(NSString *)searchResultName compareNum :(NSNumber *)compareNum  matchArray:(NSArray *)matchArray{
     
+    if ((*i) > searchResultName.length) {
+        *i = *i - 1;
+        return;
+    }
+    
     if ([NSString needLightChar:[searchResultName substringWithRange:NSMakeRange(0, (*i))] compareValue:compareNum.intValue]) {
             return ;
         }else{
