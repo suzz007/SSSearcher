@@ -32,10 +32,10 @@
 		FFAB933F20E94E1B0030F3B3 /* UIImage+BoxBlur.m in Sources */ = {isa = PBXBuildFile; fileRef = FFAB933E20E94E1A0030F3B3 /* UIImage+BoxBlur.m */; };
 		FFAB934520E950C70030F3B3 /* UITextField+RAC.m in Sources */ = {isa = PBXBuildFile; fileRef = FFAB934320E950C70030F3B3 /* UITextField+RAC.m */; };
 		FFAB934820E951540030F3B3 /* DXFreContModel.m in Sources */ = {isa = PBXBuildFile; fileRef = FFAB934720E951540030F3B3 /* DXFreContModel.m */; };
-		FFAB935220E9D1220030F3B3 /* Array.mm in Sources */ = {isa = PBXBuildFile; fileRef = FFAB934C20E9D1220030F3B3 /* Array.mm */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
-		FFAB935320E9D1220030F3B3 /* multipy_unicode.dat in Resources */ = {isa = PBXBuildFile; fileRef = FFAB934D20E9D1220030F3B3 /* multipy_unicode.dat */; };
-		FFAB935420E9D1220030F3B3 /* SearchCore.mm in Sources */ = {isa = PBXBuildFile; fileRef = FFAB934F20E9D1220030F3B3 /* SearchCore.mm */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
-		FFAB935520E9D1220030F3B3 /* SearchCoreManager.mm in Sources */ = {isa = PBXBuildFile; fileRef = FFAB935120E9D1220030F3B3 /* SearchCoreManager.mm */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		FFAB936120E9E9120030F3B3 /* Array.mm in Sources */ = {isa = PBXBuildFile; fileRef = FFAB935B20E9E9120030F3B3 /* Array.mm */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		FFAB936220E9E9120030F3B3 /* multipy_unicode.dat in Resources */ = {isa = PBXBuildFile; fileRef = FFAB935C20E9E9120030F3B3 /* multipy_unicode.dat */; };
+		FFAB936320E9E9120030F3B3 /* SearchCore.mm in Sources */ = {isa = PBXBuildFile; fileRef = FFAB935E20E9E9120030F3B3 /* SearchCore.mm */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		FFAB936420E9E9120030F3B3 /* SearchCoreManager.mm in Sources */ = {isa = PBXBuildFile; fileRef = FFAB936020E9E9120030F3B3 /* SearchCoreManager.mm */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -91,14 +91,14 @@
 		FFAB934420E950C70030F3B3 /* UITextField+RAC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITextField+RAC.h"; sourceTree = "<group>"; };
 		FFAB934620E951540030F3B3 /* DXFreContModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DXFreContModel.h; sourceTree = "<group>"; };
 		FFAB934720E951540030F3B3 /* DXFreContModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DXFreContModel.m; sourceTree = "<group>"; };
-		FFAB934B20E9D1220030F3B3 /* Array.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Array.h; sourceTree = "<group>"; };
-		FFAB934C20E9D1220030F3B3 /* Array.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = Array.mm; sourceTree = "<group>"; };
-		FFAB934D20E9D1220030F3B3 /* multipy_unicode.dat */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = multipy_unicode.dat; sourceTree = "<group>"; };
-		FFAB934E20E9D1220030F3B3 /* SearchCore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchCore.h; sourceTree = "<group>"; };
-		FFAB934F20E9D1220030F3B3 /* SearchCore.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = SearchCore.mm; sourceTree = "<group>"; };
-		FFAB935020E9D1220030F3B3 /* SearchCoreManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchCoreManager.h; sourceTree = "<group>"; };
-		FFAB935120E9D1220030F3B3 /* SearchCoreManager.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = SearchCoreManager.mm; sourceTree = "<group>"; };
 		FFAB935720E9D4720030F3B3 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		FFAB935A20E9E9120030F3B3 /* Array.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Array.h; sourceTree = "<group>"; };
+		FFAB935B20E9E9120030F3B3 /* Array.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = Array.mm; sourceTree = "<group>"; };
+		FFAB935C20E9E9120030F3B3 /* multipy_unicode.dat */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = multipy_unicode.dat; sourceTree = "<group>"; };
+		FFAB935D20E9E9120030F3B3 /* SearchCore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchCore.h; sourceTree = "<group>"; };
+		FFAB935E20E9E9120030F3B3 /* SearchCore.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = SearchCore.mm; sourceTree = "<group>"; };
+		FFAB935F20E9E9120030F3B3 /* SearchCoreManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchCoreManager.h; sourceTree = "<group>"; };
+		FFAB936020E9E9120030F3B3 /* SearchCoreManager.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = SearchCoreManager.mm; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,7 +151,7 @@
 		FFAB92FA20E9498C0030F3B3 /* Extension */ = {
 			isa = PBXGroup;
 			children = (
-				FFAB934A20E9D1220030F3B3 /* SearchCore */,
+				FFAB935920E9E9120030F3B3 /* SearchCore */,
 				FFAB932120E94B2F0030F3B3 /* NSString+chineseTransform.h */,
 				FFAB932220E94B2F0030F3B3 /* NSString+chineseTransform.mm */,
 				FFAB933020E94CCF0030F3B3 /* UIButton+Block.h */,
@@ -220,19 +220,18 @@
 			path = model;
 			sourceTree = "<group>";
 		};
-		FFAB934A20E9D1220030F3B3 /* SearchCore */ = {
+		FFAB935920E9E9120030F3B3 /* SearchCore */ = {
 			isa = PBXGroup;
 			children = (
-				FFAB934B20E9D1220030F3B3 /* Array.h */,
-				FFAB934C20E9D1220030F3B3 /* Array.mm */,
-				FFAB934D20E9D1220030F3B3 /* multipy_unicode.dat */,
-				FFAB934E20E9D1220030F3B3 /* SearchCore.h */,
-				FFAB934F20E9D1220030F3B3 /* SearchCore.mm */,
-				FFAB935020E9D1220030F3B3 /* SearchCoreManager.h */,
-				FFAB935120E9D1220030F3B3 /* SearchCoreManager.mm */,
+				FFAB935A20E9E9120030F3B3 /* Array.h */,
+				FFAB935B20E9E9120030F3B3 /* Array.mm */,
+				FFAB935C20E9E9120030F3B3 /* multipy_unicode.dat */,
+				FFAB935D20E9E9120030F3B3 /* SearchCore.h */,
+				FFAB935E20E9E9120030F3B3 /* SearchCore.mm */,
+				FFAB935F20E9E9120030F3B3 /* SearchCoreManager.h */,
+				FFAB936020E9E9120030F3B3 /* SearchCoreManager.mm */,
 			);
-			name = SearchCore;
-			path = ../../../bt_ios_nw/DXBussinessOff/DXViewController/AddressBook/Extension/SearchCore;
+			path = SearchCore;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -296,7 +295,7 @@
 				FFAB92F120E949420030F3B3 /* LaunchScreen.storyboard in Resources */,
 				FFAB92EE20E949420030F3B3 /* Assets.xcassets in Resources */,
 				FFAB92EC20E949380030F3B3 /* Main.storyboard in Resources */,
-				FFAB935320E9D1220030F3B3 /* multipy_unicode.dat in Resources */,
+				FFAB936220E9E9120030F3B3 /* multipy_unicode.dat in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -312,7 +311,7 @@
 				FFAB931720E94A820030F3B3 /* MASCompositeConstraint.m in Sources */,
 				FFAB931D20E94A820030F3B3 /* NSArray+MASAdditions.m in Sources */,
 				FFAB92E920E949380030F3B3 /* ViewController.m in Sources */,
-				FFAB935420E9D1220030F3B3 /* SearchCore.mm in Sources */,
+				FFAB936320E9E9120030F3B3 /* SearchCore.mm in Sources */,
 				FFAB92F420E949420030F3B3 /* main.m in Sources */,
 				FFAB933B20E94DAF0030F3B3 /* DXSearchPopView.m in Sources */,
 				FFAB934820E951540030F3B3 /* DXFreContModel.m in Sources */,
@@ -321,8 +320,8 @@
 				FFAB934520E950C70030F3B3 /* UITextField+RAC.m in Sources */,
 				FFAB92E620E949380030F3B3 /* AppDelegate.m in Sources */,
 				FFAB933A20E94DAF0030F3B3 /* DXFreContCell.m in Sources */,
-				FFAB935520E9D1220030F3B3 /* SearchCoreManager.mm in Sources */,
-				FFAB935220E9D1220030F3B3 /* Array.mm in Sources */,
+				FFAB936420E9E9120030F3B3 /* SearchCoreManager.mm in Sources */,
+				FFAB936120E9E9120030F3B3 /* Array.mm in Sources */,
 				FFAB932020E94A820030F3B3 /* ViewController+MASAdditions.m in Sources */,
 				FFAB931F20E94A820030F3B3 /* View+MASAdditions.m in Sources */,
 				FFAB933520E94D960030F3B3 /* DXSearchView.m in Sources */,
