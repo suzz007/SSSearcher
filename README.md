@@ -8,4 +8,6 @@
 NSMutableAttributedString * attributedString = [NSString lightStringWithSearchResultName:model.name matchArray:matchPos inputString:text lightedColor:COLOR_HEX(0x467dff)];
 
 匹配高亮的计算代码哪儿没有来得及打注释,但实现逻辑其实不难,应该都能看懂,提供的上条接口API高亮匹配的需求,也不用管具体如何实现的
-![image(https://github.com/suzz007/SSSearcher/blob/master/SSSearcher/SSSearcher/2018-07-02%2014.38.33.gif)
+
+
+![image](https://github.com/suzz007/SSSearcher/blob/master/SSSearcher/SSSearcher/2018-07-02%2014.38.33.gif)
