@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FF29122920F5B8D70095A629 /* 2018-07-02 15.12.25.gif in Resources */ = {isa = PBXBuildFile; fileRef = FF29122820F5B8D70095A629 /* 2018-07-02 15.12.25.gif */; };
+		FF29122B20F5B8E90095A629 /* 2018-07-02 14.38.33.gif in Resources */ = {isa = PBXBuildFile; fileRef = FF29122A20F5B8E80095A629 /* 2018-07-02 14.38.33.gif */; };
 		FFAB92E620E949380030F3B3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FFAB92E520E949380030F3B3 /* AppDelegate.m */; };
 		FFAB92E920E949380030F3B3 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FFAB92E820E949380030F3B3 /* ViewController.m */; };
 		FFAB92EC20E949380030F3B3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFAB92EA20E949380030F3B3 /* Main.storyboard */; };
@@ -39,6 +41,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FF29122820F5B8D70095A629 /* 2018-07-02 15.12.25.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "2018-07-02 15.12.25.gif"; sourceTree = "<group>"; };
+		FF29122A20F5B8E80095A629 /* 2018-07-02 14.38.33.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "2018-07-02 14.38.33.gif"; sourceTree = "<group>"; };
 		FFAB92E120E949380030F3B3 /* SSSearcher.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SSSearcher.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFAB92E420E949380030F3B3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		FFAB92E520E949380030F3B3 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -139,6 +143,8 @@
 				FFAB934920E951670030F3B3 /* model */,
 				FFAB933C20E94DC50030F3B3 /* views */,
 				FFAB92EA20E949380030F3B3 /* Main.storyboard */,
+				FF29122A20F5B8E80095A629 /* 2018-07-02 14.38.33.gif */,
+				FF29122820F5B8D70095A629 /* 2018-07-02 15.12.25.gif */,
 				FFAB92ED20E949420030F3B3 /* Assets.xcassets */,
 				FFAB92EF20E949420030F3B3 /* LaunchScreen.storyboard */,
 				FFAB92F220E949420030F3B3 /* Info.plist */,
@@ -292,10 +298,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				FFAB931620E94A820030F3B3 /* Info.plist in Resources */,
+				FF29122920F5B8D70095A629 /* 2018-07-02 15.12.25.gif in Resources */,
 				FFAB92F120E949420030F3B3 /* LaunchScreen.storyboard in Resources */,
 				FFAB92EE20E949420030F3B3 /* Assets.xcassets in Resources */,
 				FFAB92EC20E949380030F3B3 /* Main.storyboard in Resources */,
 				FFAB936220E9E9120030F3B3 /* multipy_unicode.dat in Resources */,
+				FF29122B20F5B8E90095A629 /* 2018-07-02 14.38.33.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
